@@ -1,16 +1,27 @@
+<p align="center">
+
 [![banner.png](https://i.postimg.cc/8Cx4x2Sh/banner.png)](https://postimg.cc/94ty7NzM)
+**I am a self taught developer from Argentina 👋 **
 
-<!--
-**NicolasTerroni/NicolasTerroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technologies and tools 🔧:
+- Python
+- Django
+- SQL
+- MySql
+- HTML and CSS
+- GIT
 
-Here are some ideas to get you started:
+💻 Also interesed on data science. big data, machine learning and, of course, IA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I learned all this at [Platzi ❤](https://platzi.com/ "Platzi")
+Here you can see all that I have learned: 
+https://platzi.com/@nicolasterroni
+
+I have no plans to stop learning new technologies in my entire life 🤗
+
+Contact me:
+📩 nsterroni@gmail.com
+📸 [Instagram](https://www.instagram.com/nicolasterroni/ "Instagram")
+💼 [LinkedIn](https://www.linkedin.com/in/nicolas-terroni-912a93192/ "LinkedIn")
+**
+</p>
