@@ -1,6 +1,6 @@
 [![banner.png](https://i.postimg.cc/8Cx4x2Sh/banner.png)](https://postimg.cc/94ty7NzM)
 
-           **I am a self taught developer from Argentina 👋**
+#####**I am a self taught developer from Argentina 👋**
 
   **Technologies and tools 🔧:**
   - Python
@@ -19,6 +19,6 @@
   **I have no plans to stop learning new technologies in my entire life 🤗**
 
   **Contact me:**
-  **📩 nsterroni@gmail.com**
-  **📸 [Instagram](https://www.instagram.com/nicolasterroni/ "Instagram")**
-  **💼 [LinkedIn](https://www.linkedin.com/in/nicolas-terroni-912a93192/ "LinkedIn")**
+  - **📩 nsterroni@gmail.com**
+  - **📸 [Instagram](https://www.instagram.com/nicolasterroni/ "Instagram")**
+  - **💼 [LinkedIn](https://www.linkedin.com/in/nicolas-terroni-912a93192/ "LinkedIn")**
