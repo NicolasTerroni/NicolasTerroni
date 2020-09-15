@@ -1,9 +1,9 @@
 <p align="center">
 
 [![banner.png](https://i.postimg.cc/8Cx4x2Sh/banner.png)](https://postimg.cc/94ty7NzM)
-**I am a self taught developer from Argentina 👋 **
+**I am a self taught developer from Argentina 👋 
 
-**Technologies and tools 🔧:
+Technologies and tools 🔧:
 - Python
 - Django
 - SQL
