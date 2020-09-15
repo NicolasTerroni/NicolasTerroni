@@ -1,4 +1,4 @@
-[banner.png](https://postimg.cc/94ty7NzM)
+[![banner.png](https://i.postimg.cc/8Cx4x2Sh/banner.png)](https://postimg.cc/94ty7NzM)
 
 <!--
 **NicolasTerroni/NicolasTerroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
