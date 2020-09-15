@@ -1,4 +1,4 @@
-![](https://ibb.co/mDCMdN0)
+[banner.png](https://postimg.cc/94ty7NzM)
 
 <!--
 **NicolasTerroni/NicolasTerroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
