@@ -21,4 +21,4 @@
 #### Contact me:
   - **📩 nsterroni@gmail.com**
   - **📸 [Instagram](https://www.instagram.com/nicolasterroni/ "Instagram")**
-  - **💼 [LinkedIn](https://www.linkedin.com/in/nicolas-silo-terroni-912a93192/ "LinkedIn")**
+  - **💼 [LinkedIn](https://www.linkedin.com/in/nicolasterroni/ "LinkedIn")**
