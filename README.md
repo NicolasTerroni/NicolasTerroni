@@ -5,8 +5,8 @@
 #### Technologies and tools 🔧:
   - Python
   - Django
-  - SQL
-  - MySql
+  - SQL, MySql, PostgreSQL
+  - Docker
   - HTML and CSS
   - GIT
 
