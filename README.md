@@ -6,14 +6,14 @@
   - Python
   - Django
   - Django REST Framework
-  - SQL, MySql, PostgreSQL
+  - SQL, MySql, PostgreSQL, MongoDB
   - Docker
   - HTML and CSS
   - GIT
 
   💻 **Also interesed** on data science. big data, machine learning and IA
 
-  I learned all this at [Platzi ❤](https://platzi.com/ "Platzi")
+  I learned all this at [Platzi ](https://platzi.com/ "Platzi")
   Here you can see all that I have learned: 
   https://platzi.com/@nicolasterroni
 
