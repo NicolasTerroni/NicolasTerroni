@@ -11,7 +11,7 @@
   - HTML and CSS
   - GIT
 
-  💻 **Also interesed** on data science. big data, machine learning and IA
+  💻 **Also interesed** in data science, big data, machine learning and IA
 
   I learned all this at [Platzi ](https://platzi.com/ "Platzi")
   Here you can see all that I have learned: 
