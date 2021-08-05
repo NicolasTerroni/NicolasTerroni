@@ -13,8 +13,7 @@
 
   💻 **Also interesed** in data science, big data, machine learning and IA
 
-  I learned all this at [Platzi ](https://platzi.com/ "Platzi")
-  Here you can see all that I have learned: 
+  [Platzi ](https://platzi.com/ "Platzi") course certificates:
   https://platzi.com/@nicolasterroni
 
 ###### I have no plans to stop learning new technologies!
