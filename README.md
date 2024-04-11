@@ -14,5 +14,5 @@ Some of my Skills and Tools:
 - Looker y LookML
 - Microsoft Excel (Data cleaning, Data modeling, Pivot Tables, Formulas, Visualizations)
 - REGEX (Data Cleaning)
-- Django - DRF - Flask
+- FastAPI - Django - DRF - Flask
 - API Building
